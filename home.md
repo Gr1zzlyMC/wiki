@@ -36,8 +36,8 @@
 ---
 
 ## ⚙️ Core Features
-- 🪦 **[Graves](graves.md):** Your items & XP are safe on death.
-- ☠️ **[Death & Respawn](death-and-respawn.md):** Respawn on your island (or hub), no coin loss.
+- 🪦 **[Graves](features/graves.md):** Your items & XP are safe on death.
+- ☠️ **[Death & Respawn](features/death-and-respawn.md):** Respawn on your island (or hub), no coin loss.
 - 🏠 Claims & Protection — Lock down your builds.
 - 🪙 Economy — Earn, trade, and spend across the server.
 - 🏆 Ranks — Progression with perks.
@@ -46,7 +46,7 @@
 
 ## 📚 New Player Essentials
 - 📖 **[Getting Started](getting-started.md)**
-- 🔧 **[Basic Commands](commands.md)**
+- 🔧 **[Basic Commands](getting-started/basic-commands.md)**
 - 🏝️ **Islands Guide** *(coming soon)*
 
 ---
