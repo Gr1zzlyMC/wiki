@@ -1,0 +1,17 @@
+# ✨ Features Overview
+
+Welcome to the **Gr1zzlyMC** feature hub! Each system below has its own detailed guide, but this page gives you a snapshot so you can decide where to dive in next.
+
+## 🏠 Claims & Protection
+Secure your builds, lock containers, and keep griefers out. Learn how to set up land claims, manage trusted players, and keep your island safe in the full [Claims guide](features/claims.md).
+
+## 🪦 Graves
+Never lose your progress to an unlucky fall again. The [Graves system](features/graves.md) stores your inventory and experience when you die so you can recover everything when you return.
+
+## ☠️ Death & Respawn
+Understand what happens when you respawn, how to return to your island quickly, and what penalties (if any) you should expect. Read the full [Death & Respawn breakdown](features/death-and-respawn.md).
+
+## 📊 Player Stats *(coming soon)*
+Track your island milestones and personal achievements. The [Stats page](features/stats.md) will cover leaderboards, personal records, and more as the system rolls out.
+
+> 💡 Looking for something specific? Use the navigation on the left to jump directly into the detailed guides.
