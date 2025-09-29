@@ -8,4 +8,5 @@
   * [🏠 Claims](features/claims.md)
   * [🪦 Graves](features/graves.md)
   * [☠️ Death & Respawn](features/death-and-respawn.md)
+  * [📊 Skills & Stats](features/skills.md)
   * [📊 Stats](features/stats.md)
