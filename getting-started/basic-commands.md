@@ -61,7 +61,7 @@ All players have access to these by default, and they’ll help you navigate, bu
 
 ---
 
-💡 **Tip:** New commands unlock as you rank up or gain permissions — check out the [Ranks & Permissions](../features/ranks.md) page for more details.
+💡 **Tip:** New commands unlock as you rank up or gain permissions — check out the **Ranks & Permissions** guide (coming soon) for more details.
 
 ---
 
