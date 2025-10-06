@@ -10,3 +10,5 @@
   * [☠️ Death & Respawn](features/death-and-respawn.md)
   * [📊 Skills & Stats](features/skills.md)
   * [📊 Stats](features/stats.md)
+* 🧩 Extras
+  * [📝 Patch Notes](extras/patch-notes.md)
